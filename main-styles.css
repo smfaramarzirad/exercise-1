@@ -1,6 +1,6 @@
 .site-header,
 .site-footer {
-  min-height: 100px;
+  min-height: 120px;
   border: 2px solid tomato;
 }
 main {
