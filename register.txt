@@ -1,0 +1,3 @@
+this is register.
+
+add register for Admin.
