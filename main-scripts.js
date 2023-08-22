@@ -1,2 +1,2 @@
 console.log('HELLO');
-console.log("i'm Masoud F.R 😎");
+console.log('i am Masoud F.R 😎, i am a Web developer');
