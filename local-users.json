@@ -4,6 +4,23 @@
     "LName": "FaramarziRad",
     "e-mail": "sm.faramarzirad@gmail.com",
     "role": "admin",
+    "position": "primary",
     "id": "1"
+  },
+  {
+    "FName": "Mahdi",
+    "LName": "FaramarziRad",
+    "e-mail": "sm.faramarzirad@gmail.com",
+    "role": "admin",
+    "position": "secondary",
+    "id": "2"
+  },
+  {
+    "FName": "Mahdi",
+    "LName": "FaramarziRad",
+    "e-mail": "sm.faramarzirad@gmail.com",
+    "role": "admin",
+    "position": "secondary",
+    "id": "3"
   }
 ]
